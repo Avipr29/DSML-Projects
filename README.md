@@ -29,10 +29,10 @@ This repository serves as a chronicle of my learning journey, transitioning from
 
 **Structure & Navigation**
 Each project has its own dedicated repository, containing:
-✔️ Project Overview – Business problem, dataset details, and objectives.
-✔️ Code Notebooks – Well-documented Jupyter Notebooks or SQL queries.
-✔️ Key Findings – Actionable insights from data analysis.
-✔️ Tech Stack Used – Highlighting tools and technologies.
+- ✔️ Project Overview – Business problem, dataset details, and objectives.
+- ✔️ Code Notebooks – Well-documented Jupyter Notebooks or SQL queries.
+- ✔️ Key Findings – Actionable insights from data analysis.
+- ✔️ Tech Stack Used – Highlighting tools and technologies.
 
 **Next Steps**
 - Expanding into unsupervised learning & deep learning concepts.
