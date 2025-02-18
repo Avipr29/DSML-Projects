@@ -40,4 +40,5 @@ Each project has its own dedicated repository, containing:
 - Enhancing visual storytelling with Tableau & Power BI dashboards.
   
 Stay tuned as I continue exploring the world of Data Science & ML! 🌍📊🔍
+
 👉 Feel free to explore my projects and connect!
