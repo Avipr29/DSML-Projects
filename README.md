@@ -25,7 +25,7 @@ This repository serves as a **chronicle of my learning journey**, transitioning 
 - **Unsupervised Learning** – Clustering techniques like K-Means, DBSCAN, and PCA for dimensionality reduction.
 - **Neural Networks & Deep Learning** – Experimenting with TensorFlow/Keras to build ANN and CNN models.
 - **Time Series Analysis** – Applying forecasting techniques like ARIMA and LSTMs.
-- **Big Data & Cloud Computing **– Exploring distributed computing frameworks like Spark and deploying models on cloud platforms.
+- **Big Data & Cloud Computing**– Exploring distributed computing frameworks like Spark and deploying models on cloud platforms.
 
 ## **Structure & Navigation**
 Each project has its own dedicated repository, containing:
@@ -33,6 +33,11 @@ Each project has its own dedicated repository, containing:
 ✔️ **Code Notebooks** – Well-documented Jupyter Notebooks or SQL queries.
 ✔️ **Key Findings** – Actionable insights from data analysis.
 ✔️ **Tech Stack Used** – Highlighting tools and technologies.
+
+✔️ **Project Overview** – Business problem, dataset details, and objectives.  
+✔️ **Code Notebooks** – Well-documented Jupyter Notebooks or SQL queries.  
+✔️ **Key Findings** – Actionable insights from data analysis.  
+✔️ **Tech Stack Used** – Highlighting tools and technologies.  
 
 ## **Next Steps**
 - Expanding into unsupervised learning & deep learning concepts.
