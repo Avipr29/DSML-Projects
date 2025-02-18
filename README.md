@@ -11,7 +11,7 @@ Project Roadmap & Progress
 
 🔹 Foundations in Data Analysis
 
-* SQL-Based Exploratory Data Analysis – Data extraction, transformations, and trend analysis using structured query language.
+- SQL-Based Exploratory Data Analysis – Data extraction, transformations, and trend analysis using structured query language.
 Python for EDA – Leveraging Pandas, NumPy, and visualization libraries (Matplotlib, Seaborn) to uncover insights.
 
 🔹 Statistical Analysis & Hypothesis Testing
